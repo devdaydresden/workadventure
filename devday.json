@@ -72,7 +72,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"tilesets\/devday_basic.png",
+         "image":"devday_basic.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -85,7 +85,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"tilesets\/devday_assets.png",
+         "image":"devday_assets.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
