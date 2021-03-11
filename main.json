@@ -45,6 +45,12 @@
          "id":2,
          "name":"moebel",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.devday.de"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
