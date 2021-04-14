@@ -87,6 +87,12 @@
          "id":25,
          "name":"start_buehne",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":20,
@@ -99,6 +105,12 @@
          "id":26,
          "name":"start_lounge",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":20,
@@ -111,6 +123,12 @@
          "id":27,
          "name":"start_adminarea",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":20,
