@@ -49,7 +49,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"lobby.json#start"
+                 "value":"lobby.json#start_stage"
                 }],
          "type":"tilelayer",
          "visible":true,
