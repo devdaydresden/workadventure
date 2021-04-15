@@ -67,7 +67,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"games-corner#config.startWithVideoMuted=false"
+                 "value":"games-corner#config.startWithVideoMuted=true"
                 }],
          "type":"tilelayer",
          "visible":true,
