@@ -67,8 +67,14 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"games-corner#config.startWithVideoMuted=true"
-                }],
+                 "value":"games-corner"
+                },
+                {
+                 "name":"jitsiConfig",
+                 "type":"string",
+                 "value":"{ \"startWithAudioMuted\": false, \"startWithVideoMuted\": false } "
+                }
+         ],
          "type":"tilelayer",
          "visible":true,
          "width":32,
