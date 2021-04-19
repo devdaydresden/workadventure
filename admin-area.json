@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":18,
  "infinite":false,
  "layers":[
@@ -30,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"lobby.json#start_adminarea"
+                 "value":"main.json#start_adminarea"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -143,7 +150,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -12205,6 +12212,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":1.4,
  "width":24
 }
