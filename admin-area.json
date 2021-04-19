@@ -63,12 +63,18 @@
          "id":19,
          "name":"floor_adminarea_jitsi",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"adminArea"
-                }],
+          "properties": [
+            {
+              "name": "jitsiRoom",
+              "type": "string",
+              "value": "adminArea"
+            },
+            {
+              "name": "jitsiConfig",
+              "type": "string",
+              "value": "{ \"startWithAudioMuted\": false, \"startWithVideoMuted\": false, \"defaultLanguage\": \"de\"} "
+            }
+          ],
          "type":"tilelayer",
          "visible":true,
          "width":24,

@@ -63,12 +63,18 @@
          "id":12,
          "name":"floor_buehne_publikum",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"stageAudience"
-                }],
+         "properties": [
+           {
+             "name": "jitsiRoom",
+             "type": "string",
+             "value": "stageAudience"
+           },
+           {
+             "name": "jitsiConfig",
+             "type": "string",
+             "value": "{ \"startWithAudioMuted\": false, \"startWithVideoMuted\": false, \"defaultLanguage\": \"de\"} "
+           }
+         ],
          "type":"tilelayer",
          "visible":true,
          "width":30,
